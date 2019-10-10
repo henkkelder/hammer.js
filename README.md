@@ -7,7 +7,7 @@ THIS VERSION HAS POINTER EVENTS DISABLED
 ## Installation
 ### NPM
 ```sh
-npm install --save hammerjs
+npm install --save henkkelder/hammer.js
 ```
 
 **or**
