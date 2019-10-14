@@ -14,14 +14,8 @@ npm install --save henkkelder/hammer.js
 
 ### Yarn
 ```sh
-yarn add hammerjs
+yarn add henkkelder/hammer.js
 ```
-
-**or**
-
-### CDN
-[https://cdnjs.com/libraries/hammer.js/](https://cdnjs.com/libraries/hammer.js/)
-
 
 ## Usage
 hammer.js has a quick start option for gestures it already recognizes.
